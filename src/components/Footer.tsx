@@ -93,7 +93,7 @@ export default function Footer() {
             <div className="flex space-x-5 mt-5">
               {/* Facebook placeholder */}
               <a
-                href="#"
+                href="https://www.facebook.com/share/1BoFwoC5b4/"
                 className="hover:text-gray-100 transition"
                 aria-label="Facebook"
               >
