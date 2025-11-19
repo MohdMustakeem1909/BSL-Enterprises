@@ -81,10 +81,10 @@ export default function Footer() {
               <li>
                 ✉️{" "}
                 <a
-                  href="mailto:bsl.enterprises19@gmail.com"
+                  href="mailto:enterprisesbsl470@gmail.com"
                   className="hover:underline hover:text-gray-100"
                 >
-                  bsl.enterprises19@gmail.com
+                  enterprisesbsl470@gmail.com
                 </a>
               </li>
             </ul>

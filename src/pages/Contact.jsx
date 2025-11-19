@@ -7,7 +7,7 @@ export default function Contact() {
   const lng = 79.423189;
 
   const phone = "+91 7078634633";
-  const email = "bsl.enterprises19@gmail.com";
+  const email = "enterprisesbsl470@gmail.com";
   const address = "Ahmad ali k talab, 108 bagh, near nai masjid, Shyamjang, Bareilly, Uttar Pradesh 243001";
 
   // iframe embed using coordinates (centers and will show map at that location)
